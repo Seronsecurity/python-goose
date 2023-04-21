@@ -1,6 +1,8 @@
 Python-Goose - Article Extractor |Build Status|
 ===============================================
 
+https://goose3.readthedocs.io/en/latest/code.html#goose3
+
 Intro
 -----
 
